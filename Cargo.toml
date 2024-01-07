@@ -1,0 +1,9 @@
+[package]
+name = "aoc_2023"
+version = "0.1.0"
+
+[dependencies]
+ureq = "2.9.1"
+anyhow = "1.0.79"
+cargo = "0.76.0"
+const_format = "0.2.32"
